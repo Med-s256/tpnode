@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log('heelo word');
 =======
 console.log('heelo word');
