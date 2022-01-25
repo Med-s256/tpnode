@@ -1,18 +1,18 @@
-//Périmetre de carre
-const k= function perimetre_carre (long,larg)
+//Périmetre de trinagle
+const k= function perimetre_triangle (long,larg)
 
 {
   
   cal=(long+larg)*2;
-  console.log("Périmetre de carre", cal);
+  console.log("Périmetre de triangle", cal);
 }
 
 module.exports.Pcarre=k;
 
-// surface de carre
-const k1=function surface_carre (long,larg)
+// surface de triangle
+const k1=function surface_triangle (long,larg)
 {
   cal=long*larg;
-  console.log("surface de carre",cal);
+  console.log("surface de triangle",cal);
 }
 module.exports.Scarre=k1;
