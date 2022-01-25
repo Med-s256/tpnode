@@ -1,4 +1,4 @@
-//Périmetre de carre
+//Périmetre de rectangle
 const R= function perimetre_rectangle (a1,a2,a3)
 
 {
@@ -9,7 +9,7 @@ const R= function perimetre_rectangle (a1,a2,a3)
 
 module.exports.Prectangle=R;
 
-// surface de carre
+// surface de rectangle
 const R1=function surface_rectangle (a1,h)
 {
   cal=(a1*h)/2;
