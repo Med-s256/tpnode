@@ -1,8 +1,7 @@
 //Périmetre de cercle
 const P= function perimetre_cercle (rayon)
 
-{
-  
+{ 
   cal=Math.PI*rayon;
   console.log("Périmetre de cercle", cal);
 }
