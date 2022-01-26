@@ -40,7 +40,7 @@ app.get('/', (req, res) => {
 app.post('/', (req, res) => {
   const existUsers = getUserData()
   const userObject = {
-    username : 'hicham mounadi',
+    username : 'Foulen',
     date : shortTodayDate(),
     heure : getHour(),
   }
