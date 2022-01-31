@@ -1,0 +1,20 @@
+[
+    {
+        "username": "agurchand",
+        "password": "testpass",
+        "fullname": "Agurchand Babu",
+        "age": 6
+    },
+    {
+        "username": "jawhar",
+        "password": "123456",
+        "fullname": "jawhar dhehibi",
+        "age": 30
+    },
+    {
+        "username": "med",
+        "password": "123456",
+        "fullname": "medskib",
+        "age": 35
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "tpnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Med-s256/tpnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Med-s256/tpnode/issues"
+  },
+  "homepage": "https://github.com/Med-s256/tpnode#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
